@@ -1,0 +1,11 @@
+Learnign NodeJs
+
+Node Js 
+- is a java runtime made for NoneBrowser on top of V8 engin
+Is Modular
+    every js file in nodejs is a module 
+        use requre(..fileDir..) to import js file
+            when requre(..js) it excute the js. it is not like java import
+        use export object of module to share variables out of modules
+            it can be set module.export={var1, var2, ..};
+        
